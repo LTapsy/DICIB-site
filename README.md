@@ -1,1 +1,1 @@
-# devPerfectEvent.github.io# DICIB-site
+DICIB-site
